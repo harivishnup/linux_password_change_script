@@ -2,7 +2,7 @@
 # Password change script
 # Version 0.01
 # Date: 2017/Jan/07
-# https://github.com/harivishnup/linux_password_change_script2
+# https://github.com/harivishnup/password_changer.sh
 ##############################################################
 # List all servers in servers.txt as follows (without comment)
 # server1
